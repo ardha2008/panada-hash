@@ -16,9 +16,18 @@ Using
 
 Configure in __construct()
 
+
 `$this->hashing= new Libraries\panadaHash;`
+
 
 And then
 
+
 `$this->hashing->output(string);`
 
+
+Example and Result
+-------
+
+String = Ardha Herdianto
+Output = jcOUxsqbn56hzKPP0tGj1aLUp6unpdiq3dqwkpRrlWk=
