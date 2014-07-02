@@ -12,13 +12,13 @@ Using
 
 * Clone the repo or download and install it into `app\Libraries\panadaHash`
 
-##Setting up the controller
+###Setting up the controller
 
 Configure in __construct()
 
-$this->hashing= new Libraries\panadaHash;
+`$this->hashing= new Libraries\panadaHash;`
 
 And then
 
-$this->hashing->output(string);
+`$this->hashing->output(string);`
 
