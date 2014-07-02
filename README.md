@@ -30,4 +30,5 @@ Example and Result
 -------
 
 String = Ardha Herdianto
+
 Output = jcOUxsqbn56hzKPP0tGj1aLUp6unpdiq3dqwkpRrlWk=
