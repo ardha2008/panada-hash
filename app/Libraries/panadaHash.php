@@ -13,7 +13,8 @@ use Resources;
 class panadaHash{
     
     function __construct(){
-    	$key='abcdefghijklmnopqrstuvwxyz1234567890!@#$%^&*()';
+        //set up at the first time
+    	$key='abcdefghijklmnopqrstuvwxyz1234567890!@#$%^&*()'; 
     	$this->crypt=new Resources\Encryption($key);
     }
 
